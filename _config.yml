@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.007986295
 color:
   saturation: 0.3180402
   brandStrength: 0.750738
-  rhythmicContrast: 0.01359399
+  lightness: 0.5090268
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  lightness: 0.5090268
+  rhythmicContrast: 0.437276
+typography_spectrum: 0.007986295
 layout_spectrum: 1
 name: 'Munish '

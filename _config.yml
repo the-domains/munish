@@ -1,8 +1,18 @@
-layout_spectrum: 0.9523966
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.007986295
 color:
   saturation: 0.3180402
-  lightness: 0.5090268
   brandStrength: 0.750738
   rhythmicContrast: 0.01359399
   brandColors:
@@ -11,4 +21,6 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  lightness: 0.5090268
+layout_spectrum: 1
 name: 'Munish '
